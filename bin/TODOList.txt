@@ -1,8 +1,0 @@
-Make Layzers TODO list:
-
-1. Create a Board
-2. Create the Pieces
-3. Be able to place pieces on the board
-4. Be able to move pieces
-
-5. GUI Creation
